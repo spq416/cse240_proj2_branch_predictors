@@ -1,8 +1,7 @@
 
 /*
     Hao Zhuang, 
-    hazhuang@eng.ucsd.edu
-    A53029734 
+    hao.zhuang@cs.ucsd.edu
     Department of Computer Science and Engineering
     University of California, San Diego, CA
 */
