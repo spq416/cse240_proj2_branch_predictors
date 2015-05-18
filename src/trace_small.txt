@@ -1,0 +1,32 @@
+Processing ../traces/DIST-FP-1.bz2 file...
+Branches		 2213673
+Incorrect		   80568
+1000*wrong_cc_predicts/total insts 1000 *    80568 / 29499988 =   2.731
+Processing ../traces/DIST-FP-2.bz2 file...
+Branches		 1792835
+Incorrect		   32564
+1000*wrong_cc_predicts/total insts 1000 *    32564 / 29499869 =   1.104
+Processing ../traces/DIST-INT-1.bz2 file...
+Branches		 4184792
+Incorrect		  226983
+1000*wrong_cc_predicts/total insts 1000 *   226983 / 29499987 =   7.695
+Processing ../traces/DIST-INT-2.bz2 file...
+Branches		 2866495
+Incorrect		  292480
+1000*wrong_cc_predicts/total insts 1000 *   292480 / 29499985 =   9.915
+Processing ../traces/DIST-MM-1.bz2 file...
+Branches		 2229289
+Incorrect		  224077
+1000*wrong_cc_predicts/total insts 1000 *   224077 / 29499979 =   7.596
+Processing ../traces/DIST-MM-2.bz2 file...
+Branches		 3809780
+Incorrect		  293860
+1000*wrong_cc_predicts/total insts 1000 *   293860 / 29499970 =   9.962
+Processing ../traces/DIST-SERV-1.bz2 file...
+Branches		 3660616
+Incorrect		  220055
+1000*wrong_cc_predicts/total insts 1000 *   220055 / 29499316 =   7.460
+Processing ../traces/DIST-SERV-2.bz2 file...
+Branches		 3537562
+Incorrect		  235304
+1000*wrong_cc_predicts/total insts 1000 *   235304 / 29499198 =   7.977
