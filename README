@@ -1,3 +1,10 @@
+Dear reader, 
+
+You can easily beat this branch predictor. 
+
+HZ
+
+
 Branch Predictor Project
 ----------------------------------------------------------------------
 
@@ -26,3 +33,4 @@ will remain the same.
 5) Submit your predictor.C and predictor.h files along with your
 report (details of this specified on the webpage).  Email them to
 Ashish (asvenkat@cs.ucsd.edu) with subject line: "CSE240A Project 1"
+
